@@ -1,0 +1,35 @@
+File Structure
+index.html - Homepage with course list
+course.html - Course detail page with lessons
+styles.css - All styling with hover effects
+app.js - Course data and main functionality
+course.js - Course detail page functionality
+
+Implementation Sections (for your approval):
+Section 1: Course Data Structure & Homepage
+
+Define course data in JavaScript (3+ courses with titles, descriptions, images, lessons)
+Create homepage layout with course cards
+Basic styling foundation
+Hover effects for course cards
+
+Section 2: Course Detail Page
+
+Individual course view
+Lesson list with expandable content
+Progress tracking UI
+Navigation between pages
+
+Section 3: Completion Functionality
+
+Mark lessons as completed
+Track overall course progress
+Store completion state in localStorage
+Visual progress indicators
+
+Section 4: Final Polish
+
+Refine minimalistic design
+Button hover effects
+Responsive adjustments
+Clean typography and spacing
